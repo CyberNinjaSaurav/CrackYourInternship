@@ -6,19 +6,22 @@ public class TwoSum {
 
 
     public int []twoSum(int[] nums, int target){
+        int n = nums.length;
        
-        HashMap<Integer, Integer> hash = new HashMap<>();
-
-        for(int  i = 0; i < nums.length; i++){
-
+         HashMap<Integer, Integer> hash = new HashMap<>();
+         
+         for(int i = 0; i < n; i++){
             int rem = target - nums[i];
             if(hash.containsKey(rem)){
-                int arr[] = {hash.get(rem), i};
-                return arr;
+                return new int[]{hash.get(rem), i};
             }
             hash.put(nums[i], i);
-        }
-        return null;
+         }
+        
+           return new int[]{};
+
+
+
 
     }
 
