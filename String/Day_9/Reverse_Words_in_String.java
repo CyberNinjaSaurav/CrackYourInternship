@@ -1,4 +1,4 @@
-package CrackYourInternship.String.Day9;
+package CrackYourInternship.String.Day_9;
 
 public class Reverse_Words_in_String {
     public String reverseWords(String s) {
