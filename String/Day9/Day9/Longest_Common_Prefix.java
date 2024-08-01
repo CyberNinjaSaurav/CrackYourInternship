@@ -1,4 +1,4 @@
-package CrackYourInternship.String.Day_9;
+package Day9;
 
 import java.util.Arrays;
 

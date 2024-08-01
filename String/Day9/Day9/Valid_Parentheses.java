@@ -1,4 +1,4 @@
-package CrackYourInternship.String.Day_9;
+package CrackYourInternship.String.Day9.Day9;
 
 import java.util.Stack;
 
