@@ -41,5 +41,5 @@
 |   6  | Text Justification                 | [Link](https://leetcode.com/problems/text-justification/description/)                                    | Hard   |
 |   7  | Find the Index of the First Occurrence in a String  | [Link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)    | Easy  |
 |   8  | Generate Parentheses               | [Link](https://leetcode.com/problems/generate-parentheses/description/)                                  | Medium  |
-|   9  | Valid Number                       | [Link](https://leetcode.com/problems/valid-number/description/)                                          | Medium  |
+|   9  | Valid Number                       | [Link](https://leetcode.com/problems/valid-number/description/)                                          | Hard  |
 |   10 | Valid Palindrome II                | [Link](https://leetcode.com/problems/valid-palindrome-ii/description/)                                   | Medium  | 
