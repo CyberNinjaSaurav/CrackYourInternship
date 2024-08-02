@@ -28,3 +28,18 @@
 | 24   | Max Value of Equation              | [Link](https://leetcode.com/problems/max-value-of-equation/description/)                                 | Hard   |
 | 25   | Insert Delete GetRandom O(1) - Duplicates Allowed | [Link](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/)       | Hard   |
 | 26   | Largest Rectangle in Histogram     | [Link](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)                        | Hard   |
+
+## String
+
+| S.N. | Question                           | Link                                                                                                     | Level  |
+|------|------------------------------------|----------------------------------------------------------------------------------------------------------|--------|
+|   1  | Longest Common Prefix              | [Link](https://leetcode.com/problems/longest-common-prefix/description/)                                 | Easy   |
+|   2  | Reverse Words in a String          | [Link](https://leetcode.com/problems/reverse-words-in-a-string/description/)                             | Medium |
+|   3  | Simplify Path                      | [Link](https://leetcode.com/problems/simplify-path/description/)                                         | Medium |
+|   4  | Valid Parentheses                  | [Link](https://leetcode.com/problems/valid-parentheses/description/)                                     | Easy   |
+|   5  | Minimum Window Substring           | [Link](https://leetcode.com/problems/minimum-window-substring/description/)                              | Hard   |
+|   6  | Text Justification                 | [Link](https://leetcode.com/problems/text-justification/description/)                                    | Hard   |
+|   7  | Find the Index of the First Occurrence in a String  | [Link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)    | Easy  |
+|   8  | Generate Parentheses               | [Link](https://leetcode.com/problems/generate-parentheses/description/)                                  | Medium  |
+|   9  | Valid Number                       | [Link](https://leetcode.com/problems/valid-number/description/)                                          | Medium  |
+|   10 | Valid Palindrome II                | [Link](https://leetcode.com/problems/valid-palindrome-ii/description/)                                   | Medium  | 
